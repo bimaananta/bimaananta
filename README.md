@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Laravel and React JS
 - 💞️ I’m looking to collaborate on SMKN 2 JKT
 - 📫 You can reach me on instagram @bima_albaihaqi
-- 😄 Pronouns: Bimskuy
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Jokowi adalah the king of nepotisme, tapi semua orang masih saja mengagumi dirinya
 
 <!---
